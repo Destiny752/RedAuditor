@@ -78,8 +78,6 @@ Este proyecto está bajo MIT License.
 
 Skills demostrados
 
-Bash scripting avanzado
-
 Network reconnaissance / subnetting
 
 Uso de herramientas de seguridad: nmap, ipcalc
